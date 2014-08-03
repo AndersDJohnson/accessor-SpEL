@@ -8,6 +8,18 @@
     <artifactId>accessor</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/AndersDJohnson/accessor</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>

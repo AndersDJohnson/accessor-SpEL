@@ -1,6 +1,5 @@
 package me.andrz.accessor;
 
-import me.andrz.accessor.Accessor;
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.junit.Before;
 import org.junit.Test;

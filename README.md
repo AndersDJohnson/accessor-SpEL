@@ -7,6 +7,8 @@ By default, uses null-safe navigation, but that and other features can be enable
 
 ## Usage
 
+Download the JAR and add it to your app's runtime classpath. A zipped JAR is available on the latest release, e.g. [accessor-1.0.0-SNAPSHOT.jar.zip](https://github.com/adjohnson916/accessor/releases/download/1.0.0-SNAPSHOT/accessor-1.0.0-SNAPSHOT.jar.zip).
+
 Simplest usage lets you do this:
 
 ```java

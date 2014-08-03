@@ -1,4 +1,4 @@
-package me.andrz.accessor;
+package andrz.accessor;
 
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.junit.Before;

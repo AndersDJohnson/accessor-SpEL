@@ -1,4 +1,4 @@
-package me.andrz.accessor;
+package andrz.accessor;
 
 import org.springframework.expression.Expression;
 import org.springframework.expression.ExpressionParser;

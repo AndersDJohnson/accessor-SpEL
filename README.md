@@ -36,7 +36,7 @@ For more examples, see tests under "src/test/java".
 
 ## Alternatives
 
-* [Apache Commons BeanUtils#getNestedProperty](https://commons.apache.org/proper/commons-beanutils/apidocs/org/apache/commons/beanutils/BeanUtils.html#getMappedProperty(java.lang.Object, java.lang.String, java.lang.String))
+* [Apache Commons BeanUtils#getNestedProperty](https://commons.apache.org/proper/commons-beanutils/apidocs/org/apache/commons/beanutils/BeanUtils.html#getNestedProperty(java.lang.Object, java.lang.String))
 
 
 [spel]: http://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/expressions.html

@@ -1,6 +1,8 @@
 accessor
 ========
 
+[![Join the chat at https://gitter.im/adjohnson916/accessor-SpEL](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adjohnson916/accessor-SpEL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Access objects with the [Spring Expression Language][spel]. Convenient and safe access of deep fields in an object graph.
 
 By default, uses null-safe navigation, but that and other features can be enabled or disabled.
